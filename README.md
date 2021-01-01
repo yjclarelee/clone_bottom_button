@@ -1,1 +1,1 @@
-From https://github.com/tutsplus/javascript-for-web-designers
+Cloned from https://github.com/tutsplus/javascript-for-web-designers
